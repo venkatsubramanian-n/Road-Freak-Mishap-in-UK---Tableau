@@ -4,9 +4,10 @@ Check out the Tableau link here: https://public.tableau.com/shared/R7WS4G5QQ?:di
 
 Introduction:
 
-* Dashboard contains size of 1024px x 768px with 16 tables
-* Technique for the cause of accidents, analyzing the accidents using charts, maps, etc..,
-* Insights of Dashboard background was designed & colored with MS.PPT
+* Worked with Road Mishap’s data of 14 columns with types of accidents,locations, mode of travels etc. 
+* Visualized Area charts, Pie-charts, Geo maps, Line Bars for analyzing  the cause of accidents
+* Discovered that major accidents on the year of 2021-22 due to road surface and weather conditions
+
 
 
 
